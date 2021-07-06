@@ -39,17 +39,6 @@ This dataset basically provides three types of thermal images: <br>
 
 The images present in the "train" and "val" folder were used as the "train" and "validation" sets respectively for training the "YOLOv3" detector and the mAP reported above is on the "validation" set of the FLIR Dataset. For the purpose of tracking the detected objects, the "video" folder of the FLIR Dataset is used.
 
-## Output Video:
-The tracking output video can be found at the following link:
-Link: https://drive.google.com/file/d/1ICfcUHrX_Cd3yBGXYq2EE8HUF4-W94Rp/view?usp=sharing
-
-## Yolov3 Detector weights:
-For Yolov3 @ 608:
-Link: https://drive.google.com/file/d/19x6B6oYB8Y4o3Sqp5YXAPBEI38yP2Uq9/view?usp=sharing
-
-For Yolov3 @ 416:
-Link: https://drive.google.com/file/d/1M2xr2aW0Zj1ghM91FF4EoBgwCQpRNz2p/view?usp=sharing
-
 ## How to run the code:
 
 In order to run the code:
